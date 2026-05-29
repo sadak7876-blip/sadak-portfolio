@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PASTE-IMAGE-LINK-HERE" />
+  <img src="[PASTE-IMAGE-LINK-HERE](https://github.com/sadak7876-blip/sadak-portfolio/blob/ce347449b05a16d5921a2194fd20f0cfbb54dbed/ChatGPT%20Image%20May%2030%2C%202026%2C%2002_26_12%20AM.png)" />
 </p>
 # 👋 Hi, I'm Sadak Hossain
 
