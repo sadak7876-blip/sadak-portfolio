@@ -1,5 +1,6 @@
-<div align="center">
-
+<p align="center">
+  <img src="PASTE-IMAGE-LINK-HERE" />
+</p>
 # 👋 Hi, I'm Sadak Hossain
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Frontend+Developer;Digital+Creator;UI%2FUX+Designer;LinkedIn+Branding+Expert" />
