@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/sadak7876-blip/sadak-portfolio/blob/ce347449b05a16d5921a2194fd20f0cfbb54dbed/ChatGPT%20Image%20May%2030%2C%202026%2C%2002_26_12%20AM.png" />
 </p>
-# 👋 Hi, I'm Sadak Hossain
+👋 Hi, I'm Sadak Hossain
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Frontend+Developer;Digital+Creator;UI%2FUX+Designer;LinkedIn+Branding+Expert" />
 
